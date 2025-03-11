@@ -2,7 +2,7 @@
 This repository provides description of my projects (ongoing and completed)
 ### if private repos are private, it's because it's still in progress(Or I forgot to make it public😅) you can reach out to me for a demo)
 
-### Custom Built Autonomous Mobile Robot CVRBOT (In Progress)
+### Custom Built Autonomous Mobile Robot CVRBOT [(In Progress)](https://github.com/OxyBloom/cvrbot.git)
 
 ```https://github.com/OxyBloom/computer-vision-based-attendance-marking-system.git```
 ### Navigation Video Demo
@@ -14,7 +14,7 @@ This repository provides description of my projects (ongoing and completed)
 [https://youtu.be/K5cwBx4CH-k](https://youtu.be/K5cwBx4CH-k)
 
 
-### Computer Vision Based Attendance Marking System 
+### Computer Vision Based Attendance Marking System [Repo](https://github.com/OxyBloom/computer-vision-based-attendance-marking-system.git)
 
 ```https://github.com/OxyBloom/computer-vision-based-attendance-marking-system.git```
 
