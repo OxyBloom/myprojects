@@ -1,6 +1,6 @@
 # My Project Hall of Fame🌟
 This repository provides description of my projects (ongoing and completed)
-### if private repos are private, it's because it's still in progress(Or I forgot to make it public😅) you can reach out to me for a demo)
+### If repo is private, it's because it's still in progress(Or I forgot to make it public😅) you can reach out to me for a demo or to make it public)
 
 ### Custom Built Autonomous Mobile Robot CVRBOT [(In Progress)](https://github.com/OxyBloom/cvrbot.git)
 
