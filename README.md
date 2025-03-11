@@ -1,4 +1,4 @@
-# myprojects
+# My Project Hall of Fame🌟
 This repository provides description of my projects (ongoing and completed)
 ### if private repos are private, it's because it's still in progress(Or I forgot to make it public😅) you can reach out to me for a demo)
 
