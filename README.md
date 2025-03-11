@@ -21,3 +21,5 @@ This repository provides description of my projects (ongoing and completed)
 # Other Project Demos
 1. CODEC Ship Modelling Competition - [Video](https://youtu.be/DMJbOxNZAHw)
 2. Mitsubishi Melfa RV-4FRL robotic manipulator Simulation - [Video](https://youtu.be/3CvvUQ1wdXA)
+
+## I am open for collaborations 🤝
