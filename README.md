@@ -2,7 +2,7 @@
 This repository provides description of my notable projects (ongoing and completed)
 ### If repo is private, it's because it's still in progress(Or I forgot to make it public😅) you can reach out to me for a demo or to make it public)
 
-### -->Custom Built Autonomous Mobile Robot CVRBOT [()](https://github.com/OxyBloom/cvrbot.git)
+### -->[*]Custom Built Autonomous Mobile Robot CVRBOT [(Repo)](https://github.com/OxyBloom/cvrbot.git)
 
 ### -->CVRBOT Navigation Video Demo
 
@@ -12,7 +12,7 @@ This repository provides description of my notable projects (ongoing and complet
 
 [https://youtu.be/K5cwBx4CH-k](https://youtu.be/K5cwBx4CH-k)
 
-### -->GUI based Course Registration and Management System using C [Repo](https://github.com/OxyBloom/CourseReg-Cranes-Project.git)
+### [*]GUI based Course Registration and Management System using C [Repo](https://github.com/OxyBloom/CourseReg-Cranes-Project.git)
 
 
 # Other Project Demos and notable mentions
